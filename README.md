@@ -1,2 +1,2 @@
-# HeadsUpPoker
+# hupoker
 test test test
